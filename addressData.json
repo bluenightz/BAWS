@@ -1,6 +1,16 @@
-[
-	{'id': '1', 'address': 'The Pleno'},
-	{'id': '2', 'address': 'Samsen 13'},
-	{'id': '3', 'address': 'Bangbon'},
-	{'id': '4', 'address': 'Ubonrachathanee'}
-]
+{
+	data: [
+		{
+	        "Checkbox":       "<input type='checkbox' class='i-checks' >",
+	        "SKU":   "SKU0001",
+	        "Image":     "Image",
+	        "Name": "โทรทัศน์"
+	    },
+	    {
+	        "Checkbox":       "<input type='checkbox' class='i-checks' >",
+	        "SKU":   "SKU0002",
+	        "Image":     "Image",
+	        "Name": "พัดลม"
+	    }
+	    ]
+}
