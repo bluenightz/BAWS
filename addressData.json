@@ -1,16 +1,8 @@
 {
-	data: [
-		{
-	        "Checkbox":       "<input type='checkbox' class='i-checks' >",
-	        "SKU":   "SKU0001",
-	        "Image":     "Image",
-	        "Name": "โทรทัศน์"
-	    },
-	    {
-	        "Checkbox":       "<input type='checkbox' class='i-checks' >",
-	        "SKU":   "SKU0002",
-	        "Image":     "Image",
-	        "Name": "พัดลม"
-	    }
-	    ]
+	"data": [{
+		"checkbox": "Tiger Nixon",
+		"sku": "System Architect",
+		"image": "$320,800",
+		"name": "2011/04/25"
+	}]
 }
